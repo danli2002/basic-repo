@@ -1,0 +1,57 @@
+body {
+	font-size: 16px;
+	color: black;
+	background-color: #5d5e5d;
+	font-family: 'Montserrat', sans-serif;
+}
+
+#header-nav {
+	border-radius: 0;
+	border: 0;
+	background-color: #B46D0A;
+}
+
+#logo-img {
+	background: url(chanticleer.png) no-repeat;
+	width: 125px;
+	height: 125px;
+	margin: 10px 15px 10px 0;
+
+}
+
+
+.navbar-brand h1 {
+	
+	display:inline-block;
+	font-size: 45px;
+	text-transform: uppercase;
+	color: black;
+	text-align: center;
+
+}
+
+
+
+.navbar-brand a:hover, .navbar-brand a:focus {
+	text-decoration: none;
+	text-shadow: 2px 2px 2px black;
+}
+
+#logo-img a:hover {
+	border: 2px solid black;
+}
+
+p {
+	text-align: left;
+}
+
+#maintenance-msg {
+	font-size: 30px;
+	text-align: center;
+	margin-top: 100px;
+}
+
+#subheading {
+	text-align: center;
+	margin-top: 35px;
+}
